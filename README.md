@@ -6,7 +6,9 @@
 
 ## ⬇️ Download
 
-**[📥 Baixar CONECTA TV (APK)](https://github.com/JuniorFray/CONECTA-TV-HIBRIDO-IPTV/raw/main/CONECTA_TV_OWNTV.apk)**
+### 👉 [📥 BAIXAR CONECTA TV (APK)](https://github.com/JuniorFray/CONECTA-TV-HIBRIDO-IPTV/releases/download/v1.0/CONECTA_TV_OWNTV.apk)
+
+Versão atual: **v1.0** · também na aba **[Releases](https://github.com/JuniorFray/CONECTA-TV-HIBRIDO-IPTV/releases/latest)**.
 
 > Link direto do APK — toque para baixar e instalar.
 
